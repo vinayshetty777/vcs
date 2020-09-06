@@ -1,0 +1,114 @@
+
+
+a       {font-family: sans-serif;}
+
+body   { font-family: "Montserrat";}
+
+h2 {  font-family:verdana,sans-serif;
+      font-size: 3rem;
+      line-height: 1.5;}
+
+h3 { font-family:verdana,sans-serif;}
+
+p {color: grey;}
+
+#title { background-color: #e84a5f;}
+
+#font  {font-family: 'Montserrat', sans-serif;
+        font-size: 2.5rem;}
+
+#one   {margin: 20px 0px 20px;}
+
+#shoe   { border-radius: 80%;
+        width: 90%;
+        margin: 20px 20px;}
+
+#btns {margin: 20px 10px 20px;}
+
+#features {padding: 120px 220px;}
+
+#one {  font-family:'Montserrat', sans-serif;}
+
+#footer {text-align: center;
+          margin: 40px 20px 30px;}
+
+#cta {text-align: center;
+      background-color: #e84a5f;
+       padding: 50px 10px 40px;
+      margin: 80px 10px 20px;}
+
+#pricing {text-align: center;
+        }
+
+#pricing1 {padding: 20px 10px 20px;}
+
+#testimonials {
+               text-align: center;
+
+               background-color: #e84a5f;
+               color: #fff;
+                }
+                #press {background-color: #fff;
+                        text-align: center;
+                      padding-bottom: 60px;
+                     }
+
+                #press1 {border-radius: 50%;
+                         margin: 0px 25px;}
+
+
+.container-fluid  {padding: 3% 15% 5%;}
+
+.navbar-brand {font-family: sans-serif;}
+
+.navbar { padding: 10px 0 40px;}
+
+.nav-item {padding: 0 12px;}
+
+.nav-link {font-size: 1.2rem;
+           font-family: "Montserrat-light";}
+
+
+
+.feature-box { text-align: center;}
+
+
+
+
+.carousel-item {
+                font-family:verdana,sans-serif;}
+
+.slider {margin: 100px 20px 0px;}
+
+.test-img {
+           border-radius: 100%;
+           margin: 80px 80px 100px;
+           width: 40%;
+           }
+
+
+.test-img1 {border-radius: 100%;
+             margin: 80px 80px 100px;
+             width: 40%;
+            }
+
+.card {text-align: center;
+        margin-top: 20px;
+        margin-left: 10px;
+        margin-right: 10px;
+        font-family: 'Montserrat', sans-serif;
+      }
+
+
+@media (max-width: 800px) {
+   .title {text-align: center;}
+  #shoe {position: static;
+         }
+   .features-box {text-align: center;}
+  h2 {font-size: 20px;}
+
+  #pricing {text-align: center;}
+  .merge {margin-right: 100px;}
+  .card2 {margin-right: :80px;}
+  
+}
